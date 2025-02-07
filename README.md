@@ -11,3 +11,4 @@ To acomplish this we use the following syntax:
   - justify-content: defines the alignment along the main axis of the flex container
   - align-items: defines how the flex items are laid out along the corss axis of the flex container
   - flex-direction: defines the direction the flex items are places in the flex container
+**For more in the "code" tab I did also put the code inside of there as well**
